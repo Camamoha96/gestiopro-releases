@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2E1UGZHN2JMcmp1eHJxRU03bXBpM3p4S0laR2FkUmZYSXhBMEtCUENkblRLeHl5eTJ4dmZscVMwS2duZWFrL3pCYUpKV2dNZHhhMEhXZWxOaEZzQmJGZSswZUpCeUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODU4OTY2CWZpbGU6R2VzdGlvUHJvXzEuMC4wX3g2NC1zZXR1cC5leGUKc0hlUnlGcU9NZHJDcm9iSnorallLb29aaWJIWmVZTHFIdldjRFVEeWRrQkpPOWoxTUFEV1d5enBPTHo1bFE0Q3Q2bjQvOTBjU2V2aHUyS1R1S01ORGc9PQo=",
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2E1UGZHN2JMcnFxV05qZyt3dUlsUHlvYi9aVXJPMnM1bUs1WVpML3V4a1Y1ZWFzeVlOYnJ2OHRxUUNHTmplSk9zQmwrbVo4UGlaaUhtNFcwNG1vVXZZcmZ3eGFUMkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODYxNzI2CWZpbGU6R2VzdGlvUHJvXzEuMC4wX3g2NC1zZXR1cC5leGUKS3N6TFB1WnJPWjNreUlOYlcrRERnRWxuMUNjVTBkKzdlMm0xYkkxWFpUR0Z5YVIwd0FHamMraEhIcG5sUU1MNzhpQ0NVUWdONEp2VVFhZVdYYnFEQ1E9PQo=",
                                              "url":  "https://github.com/Camamoha96/gestiopro-releases/releases/download/v1.0.0/GestioPro_1.0.0_x64-setup.exe"
                                          }
                   },
     "pub_date":  "2026-06-07T00:00:00Z",
     "version":  "1.0.0",
-    "notes":  "Page d\u0027aide intégrée avec guide d\u0027utilisation complet et export PDF"
+    "notes":  "Page d\u0027aide intégrée, export PDF, protection multi-instances, mises à jour automatiques"
 }

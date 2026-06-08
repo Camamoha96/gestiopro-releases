@@ -1,1 +1,11 @@
-{"platforms":{"windows-x86_64":{"signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2E1UGZHN2JMcmxvL0RWbjRwSnVOZzJJZnRmZUJEallqWERhNERsNE1wWXRrM201UkRvQXBYTWJ0T0RPZG1GR2l3Y0M5Y05uMlhJZGFSTm1WTi9vSlczTWpIdHloblFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTM1MDMyCWZpbGU6R2VzdGlvUHJvXzEuMC4wX3g2NC1zZXR1cC5leGUKbkR4K2RMdFVjNnZ2S0RvVFFKUzhTODExMTNkSGE3RWtWK0xZYjh5MHNRNGQ1dlp5M2d6alFaVmtYMkhrMjhPZDlTaWJiY0RsQUJrT2Y2cXR5Q1NXRHc9PQo=","url":"https://github.com/Camamoha96/gestiopro-releases/releases/download/v1.0.0/GestioPro_1.0.0_x64-setup.exe"}},"pub_date":"2026-06-08T17:10:32Z","version":"1.0.0","notes":"Correction nom entreprise et numéro de téléphone sur le ticket imprimé (mode LAN client). Correction affichage des variantes (taille/couleur) sur le ticket. Correction impression automatique en mode dégradé."}
+{
+  "version": "1.1.0",
+  "pub_date": "2026-06-08T19:25:00Z",
+  "notes": "Mode essai 14 jours avec compte à rebours topbar. Blocage automatique à expiration avec formulaire d'activation intégré. Sauvegarde automatique planifiée configurable (dossier + fréquence). Page À propos dans Paramètres (version, statut licence, ID machine, contact).",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2E1UGZHN2JMcmxKTWg0QjZSSjRUa1phV0dQb3JkcjRSSTdCZC9SbnhseGpVaGtGRUx4ZnZwTnFiOXFCVzVvSkNTUWlPWHZsY2lUd0lTY1FTOWpuWnZhWFdIbWxUQ3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTQ2NjQ1CWZpbGU6R2VzdGlvUHJvXzEuMS4wX3g2NC1zZXR1cC5leGUKVjBVV014YTRQenZwbUVnaWpwc28rQlc0cjZPK3JGczAxQnkzb0dsaXllQjJEWjRTbThJakRaYTFiRjFiZ0hadURmM1dKMSt3dlpEQ0ZhdlExQVU3RGc9PQo=",
+      "url": "https://github.com/Camamoha96/gestiopro-releases/releases/download/v1.1.0/GestioPro_1.1.0_x64-setup.exe"
+    }
+  }
+}

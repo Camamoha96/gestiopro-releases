@@ -1,11 +1,11 @@
 {
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2E1UGZHN2JMcnRoWmtmMzA4Z2lCb0xmeFB2cWp4Q2NWVXdVQ0J4U2lDWmR0RGo5NWphaFllb0ZaaWpvU0tKbFpaWWR1VmhCTllmRURrSXBqa05BYzBJdjEzSTl5K3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwODYzMDM3CWZpbGU6R2VzdGlvUHJvXzEuMC4wX3g2NC1zZXR1cC5leGUKYjlDS1V0TXZZZ2txTUk0RmlOQS9nTDArVzBTL0V6MElqakw5WlRpNncvT3VIdG5GUkhXd045R1VXNTltM05FRDdsNHZ1R1RXay9vdytDcjdUN1hBRFE9PQo=",
-                                             "url":  "https://github.com/Camamoha96/gestiopro-releases/releases/download/v1.0.0/GestioPro_1.0.0_x64-setup.exe"
-                                         }
-                  },
-    "pub_date":  "2026-06-07T00:00:00Z",
-    "version":  "1.0.0",
-    "notes":  "Page d\u0027aide, export PDF, protection multi-instances, mises a jour automatiques"
+  "version": "1.0.0",
+  "pub_date": "2026-06-08T00:00:00Z",
+  "notes": "Mode hors-ligne LAN : les postes clients continuent les ventes si le serveur tombe, reconciliation automatique au retour",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/Camamoha96/gestiopro-releases/releases/download/v1.0.0/GestioPro_1.0.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2E1UGZHN2JMcnZpZVlQNVJ6cnhTYUg2cW9RZWFpNndhRSs0NnhRYjNqcFlOdDNkSlNYNStVekxCb3NmalRONGZXYjU4ZXpXM1pzNDU1N2dDaUN0ZHp0Nnh4SHpLZHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTIxNDU4CWZpbGU6R2VzdGlvUHJvXzEuMC4wX3g2NC1zZXR1cC5leGUKMnpvUUt5QkxpOWxEOGlOenVXbUxoMVlzSVBhTENIbzNJQUUySE1KMTJNelJlb0tSWHZUS0lTSjloak82czRxV2xTMlJWRVg1eTlEQTBRZDk5U2Y4REE9PQo="
+    }
+  }
 }

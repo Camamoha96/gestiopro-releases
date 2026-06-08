@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "pub_date": "2026-06-08T19:25:00Z",
-  "notes": "Mode essai 14 jours avec compte à rebours topbar. Blocage automatique à expiration avec formulaire d'activation intégré. Sauvegarde automatique planifiée configurable (dossier + fréquence). Page À propos dans Paramètres (version, statut licence, ID machine, contact).",
+  "version": "1.1.1",
+  "notes": "Correctif v1.1.1 : correction numéros WhatsApp support",
+  "pub_date": "2026-06-08T19:44:06Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2E1UGZHN2JMcmxKTWg0QjZSSjRUa1phV0dQb3JkcjRSSTdCZC9SbnhseGpVaGtGRUx4ZnZwTnFiOXFCVzVvSkNTUWlPWHZsY2lUd0lTY1FTOWpuWnZhWFdIbWxUQ3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTQ2NjQ1CWZpbGU6R2VzdGlvUHJvXzEuMS4wX3g2NC1zZXR1cC5leGUKVjBVV014YTRQenZwbUVnaWpwc28rQlc0cjZPK3JGczAxQnkzb0dsaXllQjJEWjRTbThJakRaYTFiRjFiZ0hadURmM1dKMSt3dlpEQ0ZhdlExQVU3RGc9PQo=",
-      "url": "https://github.com/Camamoha96/gestiopro-releases/releases/download/v1.1.0/GestioPro_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2E1UGZHN2JMcnBhdDF6WTEzeVduQ00zdjRySi9SU1V4Vk5KU2JPeEIzMFhnS1FBekJWK051MnB0OHlGUkExOTFYcGxjSElvaVhjZjZSbnNubndyRnhIeDdwLzZZbkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTQ3ODIwCWZpbGU6R2VzdGlvUHJvXzEuMS4xX3g2NC1zZXR1cC5leGUKQXZjbDgzcVNNdVZBUHBCQUhtM0RvcndYMW1tSi94b0U1NXU0UHpRVEFsNDRyMlk1YmVCY2R4Sk5uMmhPTVZrVlFmZVZyRUtra3NWVnhFQ1JoMU1WQ2c9PQo=",
+      "url": "https://github.com/Camamoha96/gestiopro-releases/releases/download/v1.1.1/GestioPro_1.1.1_x64-setup.exe"
     }
   }
 }

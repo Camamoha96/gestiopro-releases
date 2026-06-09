@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "notes": "Correctif v1.1.1 : correction numéros WhatsApp support",
-  "pub_date": "2026-06-08T19:44:06Z",
+  "version": "1.1.2",
+  "notes": "Ajout du sélecteur de dossier de sauvegarde + correction migration DB automatique",
+  "pub_date": "2026-06-09T06:55:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2E1UGZHN2JMcnBhdDF6WTEzeVduQ00zdjRySi9SU1V4Vk5KU2JPeEIzMFhnS1FBekJWK051MnB0OHlGUkExOTFYcGxjSElvaVhjZjZSbnNubndyRnhIeDdwLzZZbkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTQ3ODIwCWZpbGU6R2VzdGlvUHJvXzEuMS4xX3g2NC1zZXR1cC5leGUKQXZjbDgzcVNNdVZBUHBCQUhtM0RvcndYMW1tSi94b0U1NXU0UHpRVEFsNDRyMlk1YmVCY2R4Sk5uMmhPTVZrVlFmZVZyRUtra3NWVnhFQ1JoMU1WQ2c9PQo=",
-      "url": "https://github.com/Camamoha96/gestiopro-releases/releases/download/v1.1.1/GestioPro_1.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2E1UGZHN2JMcm5TUzUrdURHK2FWZGhtakJwcTRaTmdIZjlVdG1qQ1habW5hcUdEMFBVYkxUS2FVWkJlQ0ZaYWdscjcvM1M3eENYNWp3S1h0eXYwR3oybFhBNnZ6MGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTg4MDg1CWZpbGU6R2VzdGlvUHJvXzEuMS4yX3g2NC1zZXR1cC5leGUKOVRUaDVxb3docWt1bVlwRXlaamErbTZSZW5DUXFZSG9hUlpicldWRTl3OUdUMjJVeXkvbk5qT3dsNnkyZmFXcm9qVEdYc2hWWDRNSVlIdENHNG80QWc9PQo=",
+      "url": "https://github.com/Camamoha96/gestiopro-releases/releases/download/v1.1.2/GestioPro_1.1.2_x64-setup.exe"
     }
   }
 }

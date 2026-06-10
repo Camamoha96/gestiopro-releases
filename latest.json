@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRblVtZS8wdDVwSWd4eEhOa2VkZk5zY0JwczE5SmN5cFFiUS9SS1I3SFZHVjNrWEx1M0c1TW9acXlCOGpTbVNXYzVqcVk2WG5NbkRKeFo4bXFxdjNrTUI5aExmcm9XQVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTEyMjE5CWZpbGU6R2VzdGlvUHJvXzEuMS4yX3g2NC1zZXR1cC5leGUKSmUwdXZqS05LU1RrU0YycFhuSGU4eXAwT2VQNS91QnVYa0FtYzJCbG81T0FmdEYyK2RDVkNTRVFOYWFCZDhCSWVCcm9SK3lSN1Y4bzNIOTVjK0U0QlE9PQo=",
-                                             "url":  "https://github.com/Camamoha96/gestiopro/releases/download/v1.1.2/GestioPro_1.1.2_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRblVtZS8wdDVwSW03WnFCNTBsL0k4Y2sxMHBpcHhrZHJ4dnNmNDh4MGdFS2R6TVE5d21IZEtDQ0E4VE5wMkxmOXd5ZWQ0eFlDMlJ4ZUZlQWlBc1Q2d09ENU9VYlRJdGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTE0ODE5CWZpbGU6R2VzdGlvUHJvXzEuMS4zX3g2NC1zZXR1cC5leGUKaTBIaEhIb2xlbEw0SG1PS0w0SlhZcHlCck9wNlcwaDNycVdFeHBXVnhNMWxWdUpQTlR2VjhLRUhxWjc2d3N6UzlFdWhwWFZTdmN5OU8wRmhUTHlSRHc9PQo=",
+                                             "url":  "https://github.com/Camamoha96/gestiopro/releases/download/v1.1.3/GestioPro_1.1.3_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-06-10T18:23:50Z",
-    "version":  "1.1.2",
-    "notes":  "GestioPro v1.1.2"
+    "pub_date":  "2026-06-10T19:11:04Z",
+    "version":  "1.1.3",
+    "notes":  "Fix minibar : stock décrémenté au checkout hôtel"
 }

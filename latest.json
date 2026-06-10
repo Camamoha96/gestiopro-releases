@@ -1,11 +1,11 @@
 {
-  "version": "1.1.2",
-  "notes": "Ajout du sélecteur de dossier de sauvegarde + correction migration DB automatique",
-  "pub_date": "2026-06-09T06:55:33Z",
-  "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSc2E1UGZHN2JMcm5TUzUrdURHK2FWZGhtakJwcTRaTmdIZjlVdG1qQ1habW5hcUdEMFBVYkxUS2FVWkJlQ0ZaYWdscjcvM1M3eENYNWp3S1h0eXYwR3oybFhBNnZ6MGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwOTg4MDg1CWZpbGU6R2VzdGlvUHJvXzEuMS4yX3g2NC1zZXR1cC5leGUKOVRUaDVxb3docWt1bVlwRXlaamErbTZSZW5DUXFZSG9hUlpicldWRTl3OUdUMjJVeXkvbk5qT3dsNnkyZmFXcm9qVEdYc2hWWDRNSVlIdENHNG80QWc9PQo=",
-      "url": "https://github.com/Camamoha96/gestiopro-releases/releases/download/v1.1.2/GestioPro_1.1.2_x64-setup.exe"
-    }
-  }
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRblVtZS8wdDVwSWd4eEhOa2VkZk5zY0JwczE5SmN5cFFiUS9SS1I3SFZHVjNrWEx1M0c1TW9acXlCOGpTbVNXYzVqcVk2WG5NbkRKeFo4bXFxdjNrTUI5aExmcm9XQVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTEyMjE5CWZpbGU6R2VzdGlvUHJvXzEuMS4yX3g2NC1zZXR1cC5leGUKSmUwdXZqS05LU1RrU0YycFhuSGU4eXAwT2VQNS91QnVYa0FtYzJCbG81T0FmdEYyK2RDVkNTRVFOYWFCZDhCSWVCcm9SK3lSN1Y4bzNIOTVjK0U0QlE9PQo=",
+                                             "url":  "https://github.com/Camamoha96/gestiopro/releases/download/v1.1.2/GestioPro_1.1.2_x64-setup.exe"
+                                         }
+                  },
+    "pub_date":  "2026-06-10T18:23:50Z",
+    "version":  "1.1.2",
+    "notes":  "GestioPro v1.1.2"
 }
